@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="android_device_zuk_ham" path="device/zuk/ham" remote="dotOS-devices" />
+  <project name="proprietary_vendor_zuk_ham" path="vendor/zuk" remote="dotOS-devices" />
+  <project name="android_kernel_zuk_ham" path="kernel/cyanogen/msm8974" remote="dotOS-devices" />
+</manifest>
